@@ -1,4 +1,4 @@
-This a repository for the algortihms implemented as an assessments for ICSI309
+<sub>This a repository for the algortihms implemented as an assessments for ICSI309</sub>
 
 <h1>Algortihms</h1>
 <hr>
